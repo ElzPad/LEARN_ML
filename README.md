@@ -11,17 +11,12 @@ Projects are organized by **source** and **date**, following this structure:
 LEARN_ML/
 ├── university/
 ├── online-courses/
+├── blogpost-replications/
 ├── article-replications/
 ├── kaggle-experiments/
 ├── personal-experiments/
 └── tools-and-snippets/
 ```
-
-Each project is named using the format:
-```
-YYYY-MM_project-name-with-hyphens/
-```
-This helps keep everything in **chronological order**.
 ___
 
 ## 🗂️ Categories
@@ -33,7 +28,10 @@ Coursework and assignments from academic AI/ML classes.
 Projects built while following structured online learning (e.g., Coursera, Fast.ai, etc.).
 
 ### 📄 Article Replications
-Replications of ML papers or blog tutorials.
+Replications of ML papers.
+
+### 📄 Blogpost Replications
+Replications of ML blog tutorials.
 
 ### 🏆 Kaggle Experiments
 Kaggle competitions and exploratory notebooks.
@@ -50,7 +48,7 @@ ___
 
 | Project | Type | Source | Path | Description |
 |---------|------|--------|------|-------------|
-| `2025-07_project00_degrees/` | Online Course | CS50's Introduction to Artificial Intelligence with Python |[./online-courses/edx_cs50-intro-to-ai/2025-07_project00-degrees/](./online-courses/edx_cs50-intro-to-ai/2025-07_project00-degrees/) | Program that determines how many "degrees of separation" aparts two actors are |
+| [2025-07] `project00_degrees/` | Online Course | CS50's Introduction to Artificial Intelligence with Python |[./online-courses/edx_cs50-intro-to-ai/project00-degrees/](./online-courses/edx_cs50-intro-to-ai/project00-degrees/) | Program that determines how many "degrees of separation" aparts two actors are |
 ___
 
 ## 📌 Why This Repo?
@@ -67,12 +65,6 @@ ___
 - Each project includes a `README.md` with context and goals.
 - Most code is in `Jupyter Notebooks` or modular Python files.
 - Only small or synthetic datasets are stored; large datasets are typically linked or downloaded separately.
-
-___
-
-## 📬 Feedback or Questions?
-
-Feel free to open an [issue](https://github.com/your-username/ai-ml-projects/issues) or reach out if you'd like to discuss anything in the repo!
 
 ___
 
