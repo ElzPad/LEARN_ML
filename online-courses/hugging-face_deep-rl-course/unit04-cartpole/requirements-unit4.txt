@@ -1,0 +1,6 @@
+git+https://github.com/ntasfi/PyGame-Learning-Environment.git
+git+https://github.com/simoninithomas/gym-games
+numpy
+matplotlib
+torch
+gymnasium

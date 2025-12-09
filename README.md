@@ -50,6 +50,7 @@ ___
 |---------|------|--------|------|-------------|
 | [2025-07] `project00_degrees/` | Online Course | CS50's Introduction to Artificial Intelligence with Python |[./online-courses/edx_cs50-intro-to-ai/project00-degrees/](./online-courses/edx_cs50-intro-to-ai/project00-degrees/) | Program that determines how many "degrees of separation" aparts two actors are |
 | [2025-12] `unit01/` | Online Course | 🤗 Hugging Face Deep Reinforcement Learning course |[./online-courses/hugging-face_deep-rl-course/unit01/](./online-courses/hugging-face_deep-rl-course/unit01/) | Simple RL agent using Stable-Baselines3's PPO in LunarLander-v2 (Gymnasium environment). |
+| [2025-12] `unit04-cartpole/` | Online Course | 🤗 Hugging Face Deep Reinforcement Learning course |[./online-courses/hugging-face_deep-rl-course/unit04-cartpole/](./online-courses/hugging-face_deep-rl-course/unit04-cartpole/) | Simple RL agent using Reinforce algorithm in CartPole-v1 (Gymnasium environment). |
 ___
 
 ## 📌 Why This Repo?
