@@ -21,7 +21,7 @@ def main():
     print("Sample observation", env.observation_space.sample()) # Get a random observation
 
     print("\n_______________ACTION SPACE_______________")
-    print("Action Space Shape", env.action_space.n)
+    print("Action Space Shape", env.action_space.shape)
     print("Action Space Sample", env.action_space.sample()) # Take a random action
 
     # %% Train agent
