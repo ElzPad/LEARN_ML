@@ -11,6 +11,7 @@ Projects are organized by **source** and **date**, following this structure:
 LEARN_ML/
 ├── university/
 ├── online-courses/
+├── practice-platforms/
 ├── blogpost-replications/
 ├── article-replications/
 ├── kaggle-experiments/
@@ -26,6 +27,9 @@ Coursework and assignments from academic AI/ML classes.
 
 ### 🧑‍💻 Online Courses
 Projects built while following structured online learning (e.g., Coursera, Fast.ai, etc.).
+
+### 🧩 Practice Platforms
+Problems, learning paths, and guided projects completed on platforms focused on hands-on AI/ML practice, such as DeepML.
 
 ### 📄 Article Replications
 Replications of ML papers.
